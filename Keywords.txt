@@ -1,0 +1,46 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tetris				KEYWORD1	
+TetrisEventType		KEYWORD1	
+gameLost			KEYWORD1	
+newLine			    KEYWORD1	
+newFigure			KEYWORD1	
+fixedFigure			KEYWORD1	
+screenUpdate	    KEYWORD1	
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset 			KEYWORD2
+moveLeft				KEYWORD2
+moveRight				KEYWORD2
+moveDown				KEYWORD2
+moveUp					KEYWORD2
+rotateLeft				KEYWORD2
+rotateRight		    	KEYWORD2
+
+canMoveLeft				KEYWORD2
+canMoveRight			KEYWORD2
+canMoveDown				KEYWORD2
+canMoveUp	    		KEYWORD2
+canRotateLeft			KEYWORD2
+canRotateRight			KEYWORD2
+
+setEventHandler         KEYWORD2
+getDisplay              KEYWORD2
+getDisplayWidth         KEYWORD2
+getDisplayHeight        KEYWORD2
+getFigure               KEYWORD2
+generateNewFigure       KEYWORD2
+fixedFigure             KEYWORD2
+removeLine              KEYWORD2
+insertLine              KEYWORD2
+lost_y                  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
