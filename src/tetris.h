@@ -3,6 +3,11 @@
 
 #include "figures.h"
 
+#ifdef ARDUINO
+    #include "Arduino.h"
+#else
+    #include <cstring>
+#endif
 class Tetris
 {
 

@@ -1,5 +1,5 @@
 #include "tetris.h"
-#include <cstring>
+
 
 Tetris::Tetris(int screen_width, int screen_height)
 {
